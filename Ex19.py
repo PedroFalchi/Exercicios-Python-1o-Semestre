@@ -32,8 +32,8 @@ print(f'A soma dos números é: {soma}')
 mediaArit = soma / 5
 print(f'A média aritmética dos números é: {mediaArit}')
 
-per_neg = (neg * 100 / 5)
+per_neg = (soma * 100 / 5)
 print(f'A porcentagem de números negativos é: {per_neg}%')
 
-per_pos = (pos * 100 / 5)
+per_pos = (soma * 100 / 5)
 print(f'A porcentagem de números positivos é: {per_pos}%')

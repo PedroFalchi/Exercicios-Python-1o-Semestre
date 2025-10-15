@@ -33,4 +33,4 @@ while(a <= b):
     b = b - 1
 print('FIM')
 
-''' Teste Commit (com o git aberto(init e add .), teste com apenas o git push -u origin main)'''
+''' Teste Commit - para atualizar códigos (com o terminal e git aberto, comandos --> git init, git add . + git push -u origin main)'''

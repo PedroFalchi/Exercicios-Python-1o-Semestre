@@ -32,3 +32,5 @@ while(a <= b):
     print(f'{x} X {b} = {r}')
     b = b - 1
 print('FIM')
+
+''' Teste Commit (com o git aberto(init e add .), teste com apenas o git push -u origin main)'''

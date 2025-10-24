@@ -1,7 +1,16 @@
-n = int(input('Digite o primeiro número: '))
-x = int(input('Digite o primeiro número: '))
-y = int(input('Digite o primeiro número: '))
+n = int(input('Digite a quantidade de elementos: '))
 
-i = 1
-for i in range (1, 101, 1):
-        print(i)
+
+while( (n <= 0) or (n >= 100) ):
+    print('Erro! A quantidade de elementos deve estar entre 1 e 99!')
+    n = int(input('Digite a quantidade de elementos: '))
+
+
+s = 2
+c = 3
+
+
+for i in range(n):
+    print(s)
+    s = s + c
+    c = c + 2

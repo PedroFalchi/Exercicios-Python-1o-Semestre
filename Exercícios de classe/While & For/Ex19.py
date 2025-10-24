@@ -36,4 +36,8 @@ per_neg = (soma * 100 / 5)
 print(f'A porcentagem de números negativos é: {per_neg}%')
 
 per_pos = (soma * 100 / 5)
+<<<<<<< HEAD:Ex19.py
 print(f'A porcentagem de números positivos é: {per_pos}%')
+=======
+print(f'A porcentagem de números positivos é: {per_pos}%')
+>>>>>>> 513a2aa0d28f3c637da7c043f40a975b317e4d4f:Exercícios de classe/While & For/Ex19.py
